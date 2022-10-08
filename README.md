@@ -1,7 +1,5 @@
-🔭 I'm currently working on PT Tri Nindya Utama
-🌱 I'm currently learning React Native
-💬 Ask me about progamming, manga, and anything fun!
-⚡ Fun fact i'm actually way smarter than it looks
+# :dizzy: About Me:
+:telescope: I'm currently working on PT Tri Nindya Utama<br>:seedling: I'm currently learning React Native<br>:speech_balloon: Ask me about progamming, manga, and anything fun!<br>:zap: Fun fact i'm actually way smarter than it looks<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xanaqwerty) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xanaqwert) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/muhammadsahlharits) 
