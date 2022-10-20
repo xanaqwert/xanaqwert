@@ -1,4 +1,4 @@
-# :dizzy: About Me:
+# :dizzy: M. Sahl Harits:
 :telescope: I'm currently working on PT Tri Nindya Utama<br>:seedling: I'm currently learning React Native<br>:speech_balloon: Ask me about progamming, manga, and anything fun!<br>:zap: Fun fact i'm actually way smarter than it looks<br>
 
 ## 🌐 Socials:
