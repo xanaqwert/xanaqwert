@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 <h1 align="center">muhammad sahl harits</h1>
-<h3 align="center">technifest national web development juara 2</h3>
+<h3 align="center">technifest national web development second place</h3>
 <img align="right" alt="anya" width="400" src="https://i.pinimg.com/originals/52/a0/94/52a0949db5a90b7da4f9bddcf66b2a0c.gif"
 
 Magang di [PT Tri Nindya Utama](https://www.banggasolution.com/)
