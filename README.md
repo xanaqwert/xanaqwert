@@ -5,7 +5,7 @@
 
 Bekerja di [PT Tri Nindya Utama](https://www.banggasolution.com/)
 
-Lagi memperdalam ilmu di **React Native**
+Lagi memperdalam ilmu tentang **React Native**
 
 <h3 align="left">Jika ada pertanyaan hubungi lewat socials media:</h3>
 <p align="left">
