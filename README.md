@@ -1,11 +1,11 @@
-[![MasterHead](https://i.pinimg.com/originals/42/22/60/4222602995bf3218646ca59bf661a0cf.gif)]
+![MasterHead](https://i.pinimg.com/originals/42/22/60/4222602995bf3218646ca59bf661a0cf.gif)
 <h1 align="center">Hi 👋, I'm Sahl</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="anya" width="400" src="https://i.pinimg.com/originals/52/a0/94/52a0949db5a90b7da4f9bddcf66b2a0c.gif"
 
-- Bekerja di [PT Tri Nindya Utama](https://www.banggasolution.com/)
+Bekerja di [PT Tri Nindya Utama](https://www.banggasolution.com/)
 
-- Lagi memperdalam ilmu di **React Native**
+Lagi memperdalam ilmu di **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
