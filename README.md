@@ -1,5 +1,5 @@
 # Muhammad Sahl Harits
-Bekerja di PT Tri Nindya Utama, Lagi memperdalam ilmu di React Native<br>:speech_balloon: Jika ada pertanyaan bisa hubungi lewat kontak socials media <br>
+Bekerja di PT Tri Nindya Utama, Lagi memperdalam ilmu di React Native<br> Jika ada pertanyaan bisa hubungi lewat kontak socials media :speech_balloon: <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xanaqwerty) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xanaqwert) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/muhammadsahlharits) 
 
