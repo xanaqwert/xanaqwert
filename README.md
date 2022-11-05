@@ -1,6 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/42/22/60/4222602995bf3218646ca59bf661a0cf.gif)
-<h1 align="center">Muhammad Sahl Harits</h1>
-<h3 align="center">Siswa dari [SMK 1 PERCIK](http://smkperguruancikini.sch.id/)</h3>
+![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
+<h1 align="center">muhammad sahl harits</h1>
+<h3 align="center">siswa dari perguruan cikini</h3>
 <img align="right" alt="anya" width="400" src="https://i.pinimg.com/originals/52/a0/94/52a0949db5a90b7da4f9bddcf66b2a0c.gif"
 
 Bekerja di [PT Tri Nindya Utama](https://www.banggasolution.com/)
