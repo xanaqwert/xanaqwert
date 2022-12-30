@@ -5,8 +5,6 @@
 
 Magang di [PT Tri Nindya Utama](https://www.banggasolution.com/)
 
-Lagi memperdalam ilmu tentang **React Native**
-
 <h3 align="left">Jika ada pertanyaan hubungi lewat socials media:</h3>
 <p align="left">
 <a href="https://twitter.com/xanaqwert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xanaqwert" height="30" width="40" /></a>
