@@ -1,6 +1,6 @@
 <h1 align="center">muhammad sahl harits</h1>
 <h3 align="center">technifest national web development second place, Aws DKI Jakarta Third place</h3>
-<img align="right" alt="anya" width="400" src="[https://media.tenor.com/2z7NVAVjM_YAAAAd/guts-berserk.gif]"
+<img align="right" alt="anya" width="400" src="[https://i.pinimg.com/originals/52/a0/94/52a0949db5a90b7da4f9bddcf66b2a0c.gif]"
 
 apprenticeship at [PT Tri Nindya Utama](https://www.banggasolution.com/)
 
