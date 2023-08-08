@@ -24,10 +24,8 @@ Apprenticeship at [PT Tri Nindya Utama](https://www.banggasolution.com/) and [Un
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xanaqwert&theme=dark&hide_border=true)<br/>
 
 ## Achievements 
-🏆 First Place on SMK 1 Percik <br/>
-<br/>
-🏆 Second Place National Technifesst <br/>
-<br/>
-🏆 Third Place Aws Jakarta <br/>
+🏆 First Place on SMK 1 Percik <br/><br/>
+🏆 Second Place National Technifesst <br/><br/>
+🏆 Third Place Aws Jakarta <br/><br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=xanaqwert&icon=0&color=0)](https://visitcount.itsvg.in)
