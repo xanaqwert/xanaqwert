@@ -21,7 +21,7 @@ Apprenticeship at [PT Tri Nindya Utama](https://www.banggasolution.com/) and [Un
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanaqwert&show_icons=true&locale=en&layout=compact" alt="xanaqwert" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanaqwert&show_icons=true&locale=en" alt="xanaqwert" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xanaqwert&show_icons=true&locale=en" alt="xanaqwert" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xanaqwert&" alt="xanaqwert" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xanaqwert&" alt="xanaqwert" /></p>
 
