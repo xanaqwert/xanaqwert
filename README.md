@@ -19,12 +19,12 @@ Apprenticeship at [PT Tri Nindya Utama](https://www.banggasolution.com/) and [Un
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   
 <p align="left">   </p>
 
-# 📊  Stats:
+# Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xanaqwert&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xanaqwert&theme=dark&hide_border=true)<br/>
 
-## 🏆 Achievements 
-![]First Place on SMK 1 Percik<br/>Second Place National Technifesst<br/>Third Place Aws Jakarta<br/>
+## Achievements 
+🏆 First Place on SMK 1 Percik<br/>🏆 Second Place National Technifesst<br/>🏆 Third Place Aws Jakarta<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xanaqwert&icon=0&color=0)](https://visitcount.itsvg.in)
