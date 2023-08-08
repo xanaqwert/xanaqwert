@@ -24,8 +24,8 @@ Apprenticeship at [PT Tri Nindya Utama](https://www.banggasolution.com/) and [Un
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xanaqwert&theme=dark&hide_border=true)<br/>
 
 ## Achievements 
-🏆 First Place on [SMK 1 Percik](https://www.instagram.com/smk1percik/?hl=id)<br/><br/>
-🏆 Second Place on [National Technifest by UNJ](https://www.instagram.com/p/CjNUdxDPTAv/?img_index=3)<br/><br/>
-🏆 Third Place on [Aws Jakarta by Sagasitas](https://www.instagram.com/sagasitas.official/?hl=id)<br/><br/>
+🏆  First Place on [SMK 1 Percik](https://www.instagram.com/smk1percik/?hl=id)<br/><br/>
+🏆  Second Place on [National Technifest by UNJ](https://www.instagram.com/p/CjNUdxDPTAv/?img_index=3)<br/><br/>
+🏆  Third Place on [Aws Jakarta by Sagasitas](https://www.instagram.com/sagasitas.official/?hl=id)<br/><br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=xanaqwert&icon=0&color=0)](https://visitcount.itsvg.in)
