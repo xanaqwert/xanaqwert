@@ -18,10 +18,3 @@ Apprenticeship at [PT Tri Nindya Utama](https://www.banggasolution.com/) and [Un
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   
 <p align="left">   </p>
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanaqwert&show_icons=true&locale=en&layout=compact" alt="xanaqwert" /></p>
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xanaqwert&show_icons=true&locale=en" alt="xanaqwert" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xanaqwert&" alt="xanaqwert" /></p>
-
