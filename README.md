@@ -24,6 +24,8 @@ Apprenticeship at [PT Tri Nindya Utama](https://www.banggasolution.com/) and [Un
 ![](https://github-readme-stats.vercel.app/api?username=xanaqwert&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xanaqwert&theme=dark&hide_border=true)<br/>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<your discord id>)
+
 ## Achievements: 
 🏆  First Place on [SMK 1 Percik](https://www.instagram.com/smk1percik/?hl=id)<br/><br/>
 🏆  Second Place on [National Technifest by UNJ](https://www.instagram.com/p/CjNUdxDPTAv/?img_index=3)<br/><br/>
